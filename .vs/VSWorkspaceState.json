@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BooklistMvc",
+    "\\BooklistMvc\\Controllers",
+    "\\BooklistMvc\\Views",
+    "\\BooklistMvc\\Views\\Books"
+  ],
+  "SelectedNode": "\\BooklistMvc\\Views\\Books\\Upsert.cshtml",
+  "PreviewInSolutionExplorer": false
+}
